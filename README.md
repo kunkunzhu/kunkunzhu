@@ -6,7 +6,7 @@
 
 - Pronouns 👯 :  She/Her
 
-- What I am Passionate about 🤩 :
+- What I am always passionate about 🤩 :
   - the intersection between **tech** 👩🏻‍💻 and **empathy** 💛
   - creating meaningful digital experiences
   - artistic expression of all forms
