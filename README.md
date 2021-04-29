@@ -12,7 +12,7 @@
   - artistic expression of all forms
   - social impact & sustainability
 
-- Music I am currently coding to 🎵 :
+- What I am currently jamming to while coding 🎵 :
   - [**Time Online**](https://open.spotify.com/track/1Qafu0IHjwAA6mqryQvElc?si=79ef4edb439e4045) by *Nightly* (also every other song by them 💕)
   - [**California**](https://open.spotify.com/track/139pl5D6f2mcmypVqNrnMM?si=8bcd7e53652f4223) by *Boy in Space* 
 
