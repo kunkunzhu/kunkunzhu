@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello! I'm Kun 🌟
 
-<!--
-**kunkunzhu/kunkunzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech newbie eager about creating meaningful experiences !
 
-Here are some ideas to get you started:
+  >"Technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing."
+    ~ Steve Jobs
+    
+![flora](https://media2.giphy.com/media/gitkdbB1eyVThrUJFm/source.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Pronouns 👯:  She/Her
+
+- What I am Passionate about 🤩
+  - the intersection between **tech** 👩🏻‍💻 and **empathy** 💛
+  - creating meaningful digital experiences
+  - artistic expression of all forms
+  - social impact & sustainability
+
+- Music I am currently coding to 🎵
+  [**Time Online**]https://open.spotify.com/track/1Qafu0IHjwAA6mqryQvElc?si=79ef4edb439e4045 by Nightly (also every other song by them 💕)
+
 -->
