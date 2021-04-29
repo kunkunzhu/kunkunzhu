@@ -3,7 +3,7 @@
   >"Technology alone is not enough — it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing."
     ~ Steve Jobs
     
-![flora](https://media.giphy.com/media/l41lSocBfrn2ZHkdi/giphy.gif)
+![flora](https://media1.giphy.com/media/zTQQPJXn1j8Jy/giphy.gif?cid=ecf05e47k1q4rhnl8n23uuxdjtr7ckdo7t0zb8rtuf557rl8&rid=giphy.gif&ct=g)
 
 - Pronouns 👯 :  She/Her
 
