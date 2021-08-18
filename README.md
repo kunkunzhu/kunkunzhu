@@ -4,7 +4,7 @@
 
 ### Hello!
 
-My name is Kun (she/her), a '25 BMath student at the University of Waterloo who is passionate about the intersection between **tech** 👩🏻‍💻 and **empathy** 💛. In particular, I am eager to learn more about the building of meaningful digital experiences and user-centered design, where the technical ideas converges with artistic expressions to create something wonderful! 💌
+My name is Kun (she/her), a '25 BMath student at the University of Waterloo who is passionate about the intersection between **tech** 👩🏻‍💻 and **empathy** 💛. In particular, I am eager to learn about how to build meaningful digital experiences and user-centered design, where technical ideas converges with artistic expressions to create something wonderful! 💌
 
 
 - What I am currently jamming to while coding 🎵 :
